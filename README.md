@@ -47,3 +47,4 @@ Notes and tips
 License / Usage
 ---------------
 Educational code — modify and experiment freely for learning purposes.
+This project was developed as part of the AI course at HCMUT. Developed by Hoang Truong Tien Dat, Huynh Le Dang Khoa, Do Minh Quan, Nguyen Anh Tai
